@@ -14,4 +14,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/FireSFX.unity
     guid: 3603db3da0c804147ab0786ad8a394d1
+  - enabled: 1
+    path: Assets/Scenes/Day.unity
+    guid: 378551c9dbb787b4f9dd2e04ec1454e5
+  - enabled: 1
+    path: Assets/Scenes/Ending.unity
+    guid: f0f42aa4f9e0b184db935f82657fbdc2
   m_configObjects: {}

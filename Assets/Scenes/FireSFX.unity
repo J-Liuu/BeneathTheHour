@@ -10180,7 +10180,7 @@ MonoBehaviour:
   fadeImage: {fileID: 417059076}
   fadeDuration: 1
   delayBeforeFadeOut: 4
-  nextSceneName: MainScene
+  nextSceneName: Day
 --- !u!4 &434147050
 Transform:
   m_ObjectHideFlags: 0
